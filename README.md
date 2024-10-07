@@ -1,2 +1,4 @@
 # LITA-Class-Documentation
-
+``` sql
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
